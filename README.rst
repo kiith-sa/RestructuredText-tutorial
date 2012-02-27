@@ -17,8 +17,7 @@ Windows XP
   * Go to the *Advanced* tab
   * Click the *Environment Variables* button
   * From *System Variables*, select *Path*, and click *Edit*
-  * Assuming you installed Python to ``C:\Python27``, add this to the end of *Variable value*
-    (If you installed Python elsewhere, change the path accordingly)::
+  * Assuming you installed Python to ``C:\Python27`` (the default), add this to the end of *Variable value*::
 
        C:\Python27;C:\Python27\Scripts
 
