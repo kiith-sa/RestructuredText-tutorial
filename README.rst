@@ -17,11 +17,11 @@ Windows XP
   * Go to the *Advanced* tab
   * Click the *Environment Variables* button
   * From *System Variables*, select *Path*, and click *Edit*
-  * Assuming you installed Python to ``C:\Python27``, add this to the end of *Variable value*::
+  * Assuming you installed Python to ``C:\Python27``, add this to the end of *Variable value*
+    (If you installed Python elsewhere, change the path accordingly)::
 
        C:\Python27;C:\Python27\Scripts
 
-    (If you installed Python elsewhere, change the path accordingly)
 * Launch the terminal: Click *Start*, then *Run*, write ``cmd``, press Enter.
 * Install Sphinx by typing the following commands to the terminal::
 
