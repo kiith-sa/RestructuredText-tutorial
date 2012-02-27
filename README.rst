@@ -18,18 +18,26 @@ Windows XP
   * Click the *Environment Variables* button
   * From *System Variables*, select *Path*, and click *Edit*
   * Assuming you installed Python to ``C:\Python27``, add this to the end of *Variable value*::
+
        C:\Python27;C:\Python27\Scripts
+
     (If you installed Python elsewhere, change the path accordingly)
 * Launch the terminal: Click *Start*, then *Run*, write ``cmd``, press Enter.
 * Install Sphinx by typing the following commands to the terminal::
+
      easy_install pip
      pip install sphinx
+
 * **Congratulations !** You succeeded in installing Sphinx!
 * Now, still in the terminal, create a directory for your documentation and move there::
+
      md mydoc
      cd mydoc
+
 * And finally generate a basic documentation template::
+
      sphinx-quickstart
+
 * Quickstart will ask you some questions.
   The only questions that should interest you for now are:
    * *Project name:*
