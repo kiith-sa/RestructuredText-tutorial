@@ -302,8 +302,8 @@ The ``code-block`` directive can be used to highlight source code.
 Just about any language is supported. E.g. ``c`` for C, ``cpp`` for C++,
 ``java`` for Java, also ``python``, ``ruby``, ``yaml``, ``xml``, etc, etc...
 
-Example highighing D source code where we also use `:linenos:` to
-get line numbers and `:emphasize-lines:` to emphasize lines 1, 2 and 4::
+Example highighing D source code where we also use ``:linenos:`` to
+get line numbers and ``:emphasize-lines:`` to emphasize lines 1, 2 and 4::
 
    .. code-block:: d
       :linenos:
