@@ -184,12 +184,12 @@ Creating the documentation
 
   For example you can do this:
 
-  Text::
+  * Text::
     
-     An extremely awesome sentence. Another mega-awesome sentence.
-     Lines that are together form a paragraph.
-
-     Lines that are apart form separate paragraphs.
+       An extremely awesome sentence. Another mega-awesome sentence.
+       Lines that are together form a paragraph.
+    
+       Lines that are apart form separate paragraphs.
 
   * *emphasized text* : ``*emphasized text*``
   * **strong text**   : ``**strong text*``
