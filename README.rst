@@ -184,6 +184,13 @@ Creating the documentation
 
   For example you can do this:
 
+  Text::
+    
+     An extremely awesome sentence. Another mega-awesome sentence.
+     Lines that are together form a paragraph.
+
+     Lines that are apart form separate paragraphs.
+
   * *emphasized text* : ``*emphasized text*``
   * **strong text**   : ``**strong text*``
   * ``literal text``  :: 
@@ -242,12 +249,13 @@ Creating the documentation
 
   * Tables::
      
-       ====== ====== =======
-       Head 1 Head 2 Head 3
-       ====== ====== =======
-       1      N/A    Biros
-       2      42     piskoty
-       3      N/A    beton
+       ====== ============ =======
+       No.    Availability Name
+       ====== ============ =======
+       1      N/A          Biros
+       2      42           piskoty
+       3      N/A          beton
+       ====== ============ =======
 
   * Comments::
      
@@ -257,8 +265,7 @@ Creating the documentation
 
        Here is a citation reference: [CIT2002]_.
 
-       .. [CIT2002] This is the citation.  It's just like a footnote,
-          except the label is textual.
+       .. [CIT2002] This is the citation.
 
   For more stuff, see the `reStructuredText Primer <http://sphinx.pocoo.org/rest.html>`_ .
 
