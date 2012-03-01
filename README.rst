@@ -194,11 +194,7 @@ Creating the documentation
 
      `A link <http://www.google.com>`_
 
-  * A code block::
-      
-       print "Hello World!"
-
-    Code (note the empty line and **3 spaces** of indentation)::
+  * A code block (note the empty line and **3 spaces** of indentation)::
 
        A code block::
          
