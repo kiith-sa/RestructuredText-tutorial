@@ -31,7 +31,7 @@ Windows XP
      easy_install pip
      pip install sphinx
 
-* Do not close the terminal, you will need it.
+* Do not close the terminal, you are going to need it.
 
 ^^^^^^^^^
 Windows 7
@@ -56,7 +56,7 @@ Windows 7
      easy_install pip
      pip install sphinx
 
-* Do not close the terminal, you will need it.
+* Do not close the terminal, you are going to need it.
 
 ^^^^^^^^^^^^^^^
 Debianoid Linux
@@ -186,7 +186,10 @@ Creating the documentation
 
   * *emphasized text* : ``*emphasized text*``
   * **strong text**   : ``**strong text*``
-  * ``literal text``  : `` ``literal text`` `` 
+  * ``literal text``  :: 
+
+     ``literal text``
+
   * `A link <http://www.google.com>`_ : :: 
 
      `A link <http://www.google.com>`_
