@@ -192,7 +192,7 @@ Creating the documentation
        Lines that are apart form separate paragraphs.
 
   * *emphasized text* : ``*emphasized text*``
-  * **strong text**   : ``**strong text*``
+  * **strong text**   : ``**strong text**``
   * ``literal text``  :: 
 
      ``literal text``
